@@ -1,0 +1,4 @@
+
+src/Firmware/SABRELAB/build/*
+src/Firmware/SABRELAB/debug/*
+src/Firmware/SABRELAB/dist/*
