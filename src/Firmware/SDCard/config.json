@@ -1,0 +1,14 @@
+{ "Available_Sets": "1",
+  "Min_Value_Swing": "200",
+  "Min_Value_Clash": "550",
+  "Min_Value_Spin": "800",
+  "Delay_After_Swing": "500",
+  "Delay_After_Clash": "500",
+  "Delay_After_Spin": "500",
+  "File_On1": "ON1.wav",
+  "File_Off1": "OFF1.wav",
+  "File_Idle_1": "IDLE1.wav",
+  "File_Swing_1": "SWG1.wav",
+  "File_Clash_1": "HIT1.wav",
+  "File_Spin_1": "SPIN1.wav"
+}
